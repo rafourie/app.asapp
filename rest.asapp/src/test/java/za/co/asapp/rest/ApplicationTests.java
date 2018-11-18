@@ -1,4 +1,4 @@
-package za.co.asapp.rest_asapp;
+package za.co.asapp.rest;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,9 +1,9 @@
-package za.co.asapp.rest_asapp;
+package za.co.asapp.rest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+@SpringBootApplication(scanBasePackages = {"za.co.asapp"})
 public class Application {
 
 	public static void main(String[] args) {
