@@ -15,7 +15,7 @@
   </parent>
 
   <modules>
-    <module>rest.asapp</module>
+    <module>app.registration</module>
   </modules>
 
 </project>

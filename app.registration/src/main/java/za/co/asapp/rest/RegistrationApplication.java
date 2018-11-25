@@ -8,9 +8,9 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @SpringBootApplication(scanBasePackages = {"za.co.asapp"})
 @EnableDiscoveryClient
 @EnableFeignClients
-public class RestAsappApplication {
+public class RegistrationApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RestAsappApplication.class, args);
+		SpringApplication.run(RegistrationApplication.class, args);
 	}
 }

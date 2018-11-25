@@ -8,10 +8,10 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <groupId>za.co.asapp</groupId>
-  <artifactId>rest.asapp</artifactId>
+  <artifactId>app.registration</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
-  <name>rest.asapp</name>
+  <name>app.registration</name>
   <description>ASAPP Spring Boot REST Module</description>
 
   <properties>
